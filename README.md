@@ -1,8 +1,7 @@
 # Swarm-vSLAM: A Multi-agent Approach to Improve Visual SLAM Performance using Miniature Robots
 Miniature UGVs provide a low-cost and scalable solution in the field of robotics. With a multi-agent formation, visual SLAM systems can provide a redundant and robust solution to failures caused by track loss or mechanical faults. In this paper, we have proposed a multi-agent approach to improve the visual SLAM performance using miniature robots. By allowing multiple miniature robots to perform the same SLAM task, we decrease the probability of SLAM failure caused in the mapping of an unknown environment. We have performed multi-agent SLAM with the help of indigenously developed miniature UGVs as small as the palm of our hand. Each of the UGVs are operating and sending data with the help of Robot Operating System (ROS) installed over a Linux based edge device. We have also demonstrated the integration of OAK-D camera, Nano Pi computer and an ATMega328 based miniature computer by using socket programming and ROS. The experimentation results show that the SLAM failure is minimized due to the redundancy demonstrated by multiple SLAM agents. A set of vision based obstacle avoidance techniques are also applied for smooth navigation of the multiple robots.
 
-To view our paper, please visit the following:
-Qureshi, A. et al. (2024). *One Step Back, Two Steps Forward: Learning Moves to Recover from SLAM Tracking Failures*. [DOI:10.1080/01691864.2024.2319144](https://doi.org/10.1080/01691864.2024.2319144)
+To cite our paper, please use the Bibtex:
 ## BibTex
 ```
 @inproceedings{qureshi2022multi,
