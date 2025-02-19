@@ -15,7 +15,7 @@ To cite our paper, please use the Bibtex:
 ```
 
 ## Video
-https://github.com/ans-qureshi/swarm-vslam/assets/38855178/14181aed-e35c-4b65-b999-32b3b3d26ab7
+https://github.com/ans-qureshi/swarm-vslam/assets/38855178/14181aed-e35c-4b65-b999-32b3b3d26ab7 
 
 
 ## Working
